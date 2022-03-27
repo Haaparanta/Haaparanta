@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋  
 
-https://haaparantacv.fi/
+https://haaparantacv.fi/  
 
-🎓 Studying engineering in Tampere University
-👨🏼‍💻 I major in software development 
-🕸️ I like frontend development and designing
+🎓 Studying engineering in Tampere University  
+👨🏼‍💻 I major in software development   
+🕸️ I like frontend development and designing  
 
-My main interests are:
+My main interests are:  
 
 Frontend development
 Mobile development
@@ -15,8 +15,8 @@ Game development
 Artificial intelligence
 Machine learning
 
-I have a strong background in software development
-and I am familiar with the following technologies:
+I have a strong background in software development  
+and I am familiar with the following technologies:  
 
 C++ Python JavaScript  
 HTML CSS Node.js  
